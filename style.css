@@ -1,0 +1,34 @@
+.bloco {
+    width: 300px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+#bloco-1 {
+    background-color: sandybrown;
+    border: solid orange 5px;
+}
+
+#bloco-2 {
+    background-color: seagreen;
+    border: solid lightseagreen 5px;
+}
+
+#bloco-3 {
+    background-color: darkgreen;
+    border: dashed 5px lightgreen ;
+}
+
+#bloco-4 {
+    background-color: red;
+    border: dashed lightcoral 5px;
+}
+
+main {
+    font-family: helvetica;
+}
+
+p {
+    margin-top: -15px;
+}
